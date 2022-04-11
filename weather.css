@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background: url("ra.jpg");
+    color: rgb(0, 100, 5);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+
+}
+
+.container{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 1050px;
+    font-size:x-large;
+}
+h1{
+    font-weight: 700;
+    margin-top: 150px;
+}
+.input{
+    width: 350px;
+    padding: 5px;
+}
+.output{
+    text-align: center;
+    color: red;
+    font-size: xx-large;
+}
